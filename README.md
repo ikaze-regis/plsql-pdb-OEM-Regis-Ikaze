@@ -40,5 +40,6 @@ Screenshoot included: Screenshots/Task2_Create_and_drop_pdb.jpeg
 Configure and use Oracle Enterprise Manager (OEM) to view and manage the created PDBs.
 sreenshot included:Screenshots/OEM_Configuration.jpeg
 
-
-
+**ERRORS I MET**
+*Failure to install oracle sql 21c*
+I solved it by running as administrator during installation.
