@@ -20,8 +20,10 @@ The project consists of three main tasks:
 **Task 1: Create a New Pluggable Database (PDB)**
 
 *Task Objective:*
-Create a new PDB named plsql_class2025db to be used for classwork.
-
+We firstly connected the pdb to the seedpdb
 Screenshoot included: 
+
+Create a new PDB named plsql_class2025db to be used for classwork.
+Screenshoot included: Screenshots/Task1_Create_pluggable_db.jpeg
 
 
