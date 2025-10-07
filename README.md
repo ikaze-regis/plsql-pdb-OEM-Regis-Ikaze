@@ -21,9 +21,19 @@ The project consists of three main tasks:
 
 *Task Objective:*
 We firstly connected the pdb to the seedpdb
-Screenshoot included: 
+Screenshoot included in connection: Screenshots/Connect_to_seedpdb.jpeg
 
 Create a new PDB named plsql_class2025db to be used for classwork.
 Screenshoot included: Screenshots/Task1_Create_pluggable_db.jpeg
+
+**Task 2: Create and Delete Another PDB**
+
+*Task Objective:*
+Create and then delete another PDB following the naming format:
+Re_to_delete_pdb_28757
+
+Screenshoot included: 
+
+
 
 
