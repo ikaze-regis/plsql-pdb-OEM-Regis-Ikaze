@@ -32,8 +32,13 @@ Screenshoot included: Screenshots/Task1_Create_pluggable_db.jpeg
 Create and then delete another PDB following the naming format:
 Re_to_delete_pdb_28757
 
-Screenshoot included: 
+Screenshoot included: Screenshots/Task2_Create_and_drop_pdb.jpeg
 
+**Task 3: Oracle Enterprise Manager (OEM)**
+
+*Task Objective:*
+Configure and use Oracle Enterprise Manager (OEM) to view and manage the created PDBs.
+sreenshot included:
 
 
 
