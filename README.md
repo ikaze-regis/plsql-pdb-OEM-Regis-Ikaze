@@ -23,3 +23,5 @@ The project consists of three main tasks:
 Create a new PDB named plsql_class2025db to be used for classwork.
 
 Screenshoot included: 
+
+
