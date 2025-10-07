@@ -38,7 +38,7 @@ Screenshoot included: Screenshots/Task2_Create_and_drop_pdb.jpeg
 
 *Task Objective:*
 Configure and use Oracle Enterprise Manager (OEM) to view and manage the created PDBs.
-sreenshot included:
+sreenshot included:Screenshots/OEM_Configuration.jpeg
 
 
 
